@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <title>selecters</title>
+        <style>
+            body{
+                background-color: aliceblue;
+            }
+            img{
+                border: 10px solid gold;
+                margin: 10px;;
+                width: 100;
+                padding: 10px;
+            }
+            aside{
+                border: 10px solid;
+                width: 40%;
+                padding-left: 15px;
+                margin-left: 15px;
+                font-style: italic;
+                background-color: aqua;
+                
+            }
+            aside >p{
+                margin: 0.5rem;
+            }
+            div{border: 10px solid seagreen;
+                margin: 10px;
+            }
+            footer{
+                background-color:gray;
+            }
+            marquee{
+                background-color: brown;
+            }
+        </style>
+    </head>
+    <body>
+    <header>
+        <center><h1>K.V.K.RESTAURANT</h1></center>
+        <marquee>Today Offers: 30% off on Biryani, 20%off on staters, Free delivery charges.</marquee>
+        <HR>
+    </header>
+    <nav style="background-color: aqua;">
+        <center><a href="">Login</a> 
+            <a href="">Signup</a>
+            <a href=""> Menu</a>
+        <a href="">Contact Us</a>
+        <a href="">Offers</a>
+    </center>
+    </nav>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiI0itrrhmjYei67lumsa05gvwWYk37H8d6g&usqp=CAU" height="100" width="100">
+    <img src="https://www.cookclickndevour.com/wp-content/uploads/2016/04/vegetable-pulao-recipe.jpg" height="100" width="100">
+<p>DISCRIPTION : A restaurant is a place where you can eat a meal and pay for it. In restaurants, your food is usually served to you at your table by a waiter or waitress. The restaurant serves breakfast, lunch, and dinner. The food at the restaurant was good and the waiters were polite.</p><br>
+<aside>
+    <P>
+        K.V.K.RESTAURENT is the oneof the best Restqurent in the Hydhrabad since 2000,The speciality is Hydrabadhi Biryani.
+    </aside>
+    <div>
+<img src="https://d4t7t8y8xqo0t.cloudfront.net/resized/750X436/eazytrendz%2F3070%2Ftrend20210218124824.jpg">
+<img src="https://media.cnn.com/api/v1/images/stellar/prod/160929101749-essential-spanish-dish-paella-phaidon.jpg?q=w_1900,h_1069,x_0,y_0,c_fill/h_618">
+<img src="https://images.chinahighlights.com/allpicture/2021/12/71879439c9ef4d0da835efb6_cut_750x400_39.jpg">
+</div>
+<footer>
+    Contact us: <br>
+    ph.no :9999988888<br>
+    Instagram : K.V.K.Restaurent_hyd<br>
+    Facebook : K.V.K.Restaurant_hyd<br>
+</footer>
+ </body>
+</html>
